@@ -2,7 +2,7 @@
 
 What is SpecX Pc Cleaner ??
 It is a simple temporary files cleaner, which also allows your to uninstall programs which may not me found in Control Panel -> Add or Remove Programs.
-Easy access to All Windows System tools :-
+Easy access to All Windows System tools :-\n
 1.Defragment and Optimize Drives
 2.Registry Editor
 3.Disk Cleanup
