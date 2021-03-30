@@ -16,9 +16,9 @@ Easy access to All Windows System tools
 11.Windows memory Diagnostic  
 
 
-*NOTE
-This project contains some Copywrite logos/icons, it is not a "commercial project", just a small college project
+`*NOTE
+This project contains some Copywrite logos/icons, it is not a "commercial project", just a small college project`
 
-Required Operating System: Windows 10 x64
+`Required Operating System: Windows 10 x64`
 
 ![image](https://user-images.githubusercontent.com/66820639/112968119-99088c80-9169-11eb-9058-e92a5f839c06.png)
